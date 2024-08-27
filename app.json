@@ -1,9 +1,9 @@
 {
-    "name": "ᴀʟᴘʜᴀ ʙᴀɴ ᴀʟʟ",
+    "name": "ᴅᴇsᴛʀᴏʏᴇʀ ʙᴀɴ ᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
+    "logo": "https://telegra.ph/file/2b166c1622252b04d36fc.jpg",
     "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
+    "repository": "https://github.com/Adithakur008/DESTROYER_BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_ALPHA_BABY_lll",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_destroyerr_ll",
             "required": true,
             "value": ""
         },
