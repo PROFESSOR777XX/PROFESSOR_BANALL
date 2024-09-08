@@ -1,8 +1,8 @@
 {
     "name": " 𝐓𝐍𝐖 𝐁𝐀𝐍𝐀𝐋𝐋 ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://telegra.ph/file/2b166c1622252b04d36fc.jpg",
-    "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
+    "logo": "https://imgur.com/M9Zm3wI",
+    "keywords": ["ᴛᴇᴀᴍ-TNW", "ʙᴀɴ-ᴀʟʟ"],
     "repository": "https://github.com/PROFESSOR777XX/PROFESSOR_BANALL",
     "stack": "container",
     "env": {
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ PROFESSOR_77X",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ FUCKTHESN1TCHES",
             "required": true,
             "value": ""
         },
