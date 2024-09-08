@@ -3,7 +3,7 @@
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://imgur.com/M9Zm3wI",
     "keywords": ["ᴛᴇᴀᴍ-TNW", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/PROFESSOR777XX/PROFESSOR_BANALL",
+    "repository": "https://github.com/mitza421/TNW-BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
